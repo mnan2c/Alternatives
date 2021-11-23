@@ -24,4 +24,5 @@
 11. 文本处理函数。1）Left(), Right(), Locate(), SubString()：子字符串。2）Lower(), Upper()；3）LTrim(), RTrim(), Trim()。 Length(),  Soundex()。
 12. 日期时间处理函数。1）addDate(), addTime()，date_add()，datediff(); 2) CurDate(), CurTime(), now(); 3) Date(), Time(), Year(), Month(), dayOfWeek(), day(), Hour(), Minute(), Second(); 4) date_format()
 13. 数值处理函数。Abs(), Mod(), Rand(), Sqrt() 
+14. 分组。HAVING过滤分组，WHERE过滤行。WHERE的所有子句都适用于HAVING。
 
